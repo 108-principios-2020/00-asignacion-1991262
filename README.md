@@ -29,8 +29,8 @@ se puede medir en la conservacion del medio anbiente y en la prevencion del medi
 
 + ¿Cúal fue la referencia o fuente que consultaste para contestar estas preguntas?
 
------https://enciclopediaeconomica.com
-     https://www.universoformulas.com
-     y mis propias palabras
++https://enciclopediaeconomica.com
++https://www.universoformulas.com
++y mis propias palabras
 
 :card_index: La fecha de entrega del cuestionario será el día __martes 28.01.2020__
